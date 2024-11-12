@@ -14,10 +14,11 @@ To build resilience against the growing threat of cybercrime and eliminate data 
 
 We are currently working on the following projects:
 
-- **[Biokeeper App](https://github.com/biokeyper/Biokeeper-Mobile))**: A family history and digital legacy preservation app that helps users create family trees, share stories, and secure their family heritage for future generations.
+- **[Biokeeper App](https://github.com/biokeyper/Biokeeper-Mobile)**: A family history and digital legacy preservation app that helps users create family trees, share stories, and secure their family heritage for future generations.
 - **BioKeyPer Blockchain Protocol** (Coming Soon): Our blockchain infrastructure that powers decentralized data privacy utilities, enabling data ownership and secure sharing.
 - **BioKeyPer Utilities and APIs** (Coming Soon): A set of tools and APIs to integrate BioKeyPer’s decentralized privacy features into other applications.
-
+- **BioKeyPer Operating System** (Coming Soon): An Open-Source hardware specific or agnostic linux-based privacy sandbox and operating system for the BioKeyPer Decentralized Privacy Utilities Ecosystem.
+,
 ## 📜 Documentation
 
 You can find documentation and guides for our projects in the following repositories:
@@ -37,6 +38,8 @@ Our GitHub organization is structured as follows:
 ## 🏆 Contributing
 
 We welcome contributions from the community. If you want to contribute to our projects:
+
+Notify us at (dev@biokeyper.com), and:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
